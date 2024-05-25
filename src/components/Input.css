@@ -1,0 +1,24 @@
+*{
+    margin-left: 5px;
+}
+
+.div2{
+    margin-left: 25px;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+}
+
+.in, .select{
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+.first{
+    padding: 20px;
+    border-radius: 15px;
+    margin: 25px;
+    background-color: rgba(200, 184, 216, 0.687);
+}
